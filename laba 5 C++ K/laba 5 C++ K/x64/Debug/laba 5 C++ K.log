@@ -1,0 +1,7 @@
+﻿  laba 5 C++ K.cpp
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\laba 5 C++ K\laba 5 C++ K.cpp(12,39): warning C4244: инициализация: преобразование "double" в "uint32_t", возможна потеря данных
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\laba 5 C++ K\laba 5 C++ K.cpp(12,27): warning C4244: инициализация: преобразование "double" в "const uint32_t", возможна потеря данных
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\laba 5 C++ K\laba 5 C++ K.cpp(264,1): warning C4267: return: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\laba 5 C++ K\laba 5 C++ K.cpp(276,32): warning C4267: +=: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\laba 5 C++ K\laba 5 C++ K.cpp(284,1): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  laba 5 C++ K.vcxproj -> C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\kudya\laba 5 C++ K\x64\Debug\laba 5 C++ K.exe
