@@ -1,0 +1,15 @@
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\bin\Debug\net6.0\laba 2 geter.exe
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\bin\Debug\net6.0\laba 2 geter.deps.json
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\bin\Debug\net6.0\laba 2 geter.runtimeconfig.json
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\bin\Debug\net6.0\laba 2 geter.dll
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\bin\Debug\net6.0\laba 2 geter.pdb
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.csproj.AssemblyReference.cache
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.AssemblyInfoInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.AssemblyInfo.cs
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.csproj.CoreCompileInputs.cache
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.dll
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\refint\laba 2 geter.dll
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.pdb
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\laba 2 geter.genruntimeconfig.cache
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\гетерогенные\laba 2 geter\laba 2 geter\obj\Debug\net6.0\ref\laba 2 geter.dll
