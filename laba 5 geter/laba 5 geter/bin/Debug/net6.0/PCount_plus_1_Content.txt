@@ -1,0 +1,24 @@
+Содержимое класса Count_plus_1: 
+
+Field: Name (System.String)
+Field: Count (System.Int32)
+Field: What_is (System.Double)
+Field: Check (System.Boolean)
+
+Method: System.Void Print_name ()
+Method: System.Void Print_name (System.String str_in)
+Method: System.Int32 Count_plus_1 ()
+Method: System.String Anything (System.String str_in)
+Method: System.String Anything ()
+Method: System.Void Meth_for_Cl (System.String ClassName)
+Method: System.Void SaveClassToCsFile (System.String ClassName)
+Method: System.String GetParametersString (System.Reflection.ParameterInfo[] parameters)
+Method: System.String GetAccessModifier (System.Reflection.MemberInfo member)
+Method: System.Void Main (System.String[] args)
+Method: System.Type GetType ()
+Method: System.Object MemberwiseClone ()
+Method: System.Void Finalize ()
+Method: System.String ToString ()
+Method: System.Boolean Equals (System.Object obj)
+Method: System.Int32 GetHashCode ()
+
