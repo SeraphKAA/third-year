@@ -1,0 +1,4 @@
+﻿  laba 2 oop.cpp
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\oop\laba 2 oop\laba 2 oop\laba 2 oop.cpp(66,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\oop\laba 2 oop\laba 2 oop\laba 2 oop.cpp(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba 2 oop.vcxproj -> C:\Users\79045\Desktop\бессонные ночи\сделанное дз\3 курс 5 сем\oop\laba 2 oop\x64\Debug\laba 2 oop.exe
